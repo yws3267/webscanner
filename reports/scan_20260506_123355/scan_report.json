@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-05-06T12:33:59.547754",
+  "fingerprint": {
+    "url": "http://10.80.253.69:5000/ssti",
+    "webserver": null,
+    "webserver_version": "unknown",
+    "os": null,
+    "language": null,
+    "language_version": "unknown",
+    "framework": [],
+    "security_headers": [],
+    "missing_security": [],
+    "validation": [],
+    "raw_headers": {},
+    "error": "연결 실패"
+  },
+  "pages_count": 0,
+  "total_findings": 0,
+  "findings": []
+}
